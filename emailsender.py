@@ -1,4 +1,5 @@
 from bs4 import BeautifulSoup
+# make sure to have bs installed
 import requests
 import shutil
 import glob
